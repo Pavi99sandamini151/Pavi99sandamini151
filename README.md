@@ -1,4 +1,4 @@
-<!-- ![Header](./prasadheader.png) -->
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1>
 <h3 align="center">Undergraduate at UCSC</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
