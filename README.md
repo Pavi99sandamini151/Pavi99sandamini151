@@ -1,6 +1,6 @@
-![Header](./headernew.png)
-<h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1>
-<h3 align="center">Undergraduate at UCSC</h3>
+![Header](./headerfinal.png)
+<!-- <h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1> -->
+<!-- <h3 align="center">Undergraduate at UCSC</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi99sandamini151&label=Profile%20views&color=0e75b6&style=flat" alt="pavi99sandamini151" /> </p>
