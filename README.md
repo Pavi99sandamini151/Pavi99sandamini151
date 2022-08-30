@@ -1,4 +1,5 @@
 ![Header](./github-header.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi99sandamini151&label=Profile%20views&color=0e75b6&style=flat" alt="pavi99sandamini151" /> </p>
 <!-- <h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1> -->
 <!-- <h3 align="center">Undergraduate at UCSC</h3> -->
@@ -13,16 +14,17 @@
 
 - 📫 How to reach me **pavithrasandamini283@gmail.com**
 </div>-->
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/pavithra-sandamini-a922971a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra-sandamini-a922971a5" height="30" width="40" /></a>
-<a href="https://kaggle.com/pavithrasandamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pavithrasandamini" height="30" width="40" /></a>
-<a href="https://fb.com/pavithra sandamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavithra sandamini" height="30" width="40" /></a>
-<a href="https://instagram.com/pavi_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavi_99" height="30" width="40" /></a>
-<a href="https://medium.com/@pavithrasandamini283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pavithrasandamini283" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pavithra sandamini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pavithra sandamini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pavithrasandami1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavithrasandami1" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+### Connect Me Through
+
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pavithrasandamini283@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavithrasandamini/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavithrasandamini283)
+[![Instagram](https://img.shields.io/badge/instagram-%230A0A0A.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavi_99)
+[![Kaggle](https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pavithrasandamini)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pavithrasandami1)
+</div>
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
