@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Pavi99sandamini151&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Pavi99sandamini151&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pavi99sandamini151&theme=react-dark"/>
 </div>
 
 <div align="center">
