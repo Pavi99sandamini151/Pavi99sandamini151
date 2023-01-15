@@ -37,9 +37,9 @@
 </div>
 <!--
 <div aligh="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavi99sandamini151&show_icons=true&locale=en&layout=compact" alt="pavi99sandamini151" /></p>
+<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=pavi99sandamini151&show_icons=true&locale=en&layout=compact" alt="pavi99sandamini151" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavi99sandamini151&show_icons=true&locale=en" alt="pavi99sandamini151" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=pavi99sandamini151&show_icons=true&locale=en" alt="pavi99sandamini151" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi99sandamini151&" alt="pavi99sandamini151" /></p>
 </div> -->
