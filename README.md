@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi99sandamini151&label=Profile%20views&color=0e75b6&style=flat" alt="pavi99sandamini151" /> </p>
 <!-- <h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1> -->
-<!-- <h3 align="center">Undergraduate at UCSC</h3> -->
+<!-- <h3 align="center">Fullstack Developer</h3> -->
 <!--<div>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
