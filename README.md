@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <p align="center">
   <img src="./github-header-image.png" alt="Pavithra Sandamini - GitHub Profile Banner" width="100%" />
 </p><p align="left">
