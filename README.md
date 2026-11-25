@@ -93,39 +93,67 @@
   <img src="https://img.shields.io/badge/Gatling-FFB900?style=flat&logo=gatling&logoColor=black" alt="Gatling" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
 </p>🚀 Featured Projects
-🛍️ AI Shopping Assistant – RAG Chatbot for E-Commerce
-- Built an AI shopping assistant that answers customer questions using real product and pricing data.
-- Implemented Retrieval-Augmented Generation with ChromaDB and OpenAI API.
-- Added LLM guardrails to keep responses within approved topics.
-- Developed a standalone FastAPI microservice and storefront chat widget.
-- Technologies: Python, FastAPI, OpenAI API, ChromaDB, RAG, Docker, Docker Compose.
-🏟️ Sportizza – Sports Arena Booking Platform
-- Built a serverless marketplace where players can discover arenas, check court availability, and book slots.
-- Implemented atomic booking workflows using DynamoDB transactions and conditional writes to prevent double bookings.
-- Added distributed tracing and operational alerts using AWS X-Ray, CloudWatch, and SNS.
-- Automated infrastructure provisioning and multi-environment deployments.
-- Technologies: AWS Lambda, API Gateway, DynamoDB, Cognito, Amplify, CloudWatch, X-Ray, Secrets Manager, AWS CDK, TypeScript, GitHub Actions, Next.js, Sanity.
-🎟️ Engagi – QR-Based Event Management
-- Supported more than 1,000 attendees at major events, including the National ICT Conference 2024 and the Association of Professional Bankers.
-- Built registration, email confirmation, invitation, and QR-code generation workflows.
-- Developed real-time dashboards for 15+ event operators using Cloud Firestore.
-- Technologies: React, JavaScript, Firebase Cloud Functions, Cloud Firestore, GitHub Actions.
-☸️ Cloud-Native DevSecOps Platform for a Three-Tier MERN Application
-- Designed an end-to-end cloud-native DevSecOps platform using Infrastructure as Code and GitOps.
-- Provisioned AWS networking and private EKS infrastructure with Terraform.
-- Integrated SonarQube quality gates, dependency checks, Trivy image scanning, and Amazon ECR into CI/CD.
-- Implemented GitOps deployments with Argo CD and Kubernetes Ingress; configured Prometheus and Grafana monitoring.
-- Technologies: AWS EKS, Terraform, GitLab CI/CD, Docker, Kubernetes, Argo CD, SonarQube, Trivy, Prometheus, Grafana.
-📊 GitHub Statistics
+A selection of projects demonstrating my work across AI engineering, serverless application development, event platforms, and cloud-native DevSecOps.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ AI Shopping Assistant</h3>
+      <p><strong>RAG Chatbot for E-Commerce</strong></p>
+      <p>An AI-powered shopping assistant that answers customer questions using real product and pricing data.</p>
+      <strong>Key contributions</strong>
+      <ul>
+        <li>Implemented RAG with ChromaDB and the OpenAI API to ground answers in product data.</li>
+        <li>Added LLM guardrails to keep responses within approved topics.</li>
+        <li>Built a standalone FastAPI microservice and an embeddable storefront chat widget.</li>
+      </ul>
+      <p><strong>Tech stack</strong><br/>Python · FastAPI · OpenAI API · ChromaDB · RAG · Docker · Docker Compose</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏟️ <a href="https://sportizza.com">Sportizza</a></h3>
+      <p><strong>Sports Arena Booking Platform</strong></p>
+      <p>A serverless marketplace where players discover arenas, check court availability, and book slots.</p>
+      <strong>Key contributions</strong>
+      <ul>
+        <li>Implemented atomic booking workflows with DynamoDB transactions and conditional writes to prevent double bookings.</li>
+        <li>Added distributed tracing and operational alerts with AWS X-Ray, CloudWatch, and SNS.</li>
+        <li>Automated infrastructure provisioning and multi-environment deployments.</li>
+      </ul>
+      <p><strong>Tech stack</strong><br/>AWS Lambda · API Gateway · DynamoDB · Cognito · Amplify · CloudWatch · X-Ray · Secrets Manager · AWS CDK · TypeScript · GitHub Actions · Next.js · Sanity</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎟️ Engagi</h3>
+      <p><strong>QR-Based Event Management</strong></p>
+      <p>A real-time event registration and check-in platform that supported 1,000+ attendees at the National ICT Conference 2024 and the Association of Professional Bankers.</p>
+      <strong>Key contributions</strong>
+      <ul>
+        <li>Built registration, email confirmation, invitation, and QR-code generation workflows.</li>
+        <li>Developed real-time dashboards for 15+ event operators using Cloud Firestore.</li>
+      </ul>
+      <p><strong>Tech stack</strong><br/>React · JavaScript · Firebase Cloud Functions · Cloud Firestore · GitHub Actions</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☸️ Cloud-Native DevSecOps Platform</h3>
+      <p><strong>Three-Tier MERN Application</strong></p>
+      <p>An end-to-end cloud-native DevSecOps platform built around Infrastructure as Code, CI/CD security checks, and GitOps.</p>
+      <strong>Key contributions</strong>
+      <ul>
+        <li>Provisioned AWS networking and private EKS infrastructure using Terraform.</li>
+        <li>Integrated SonarQube quality gates, dependency checks, Trivy image scanning, and Amazon ECR into CI/CD.</li>
+        <li>Implemented GitOps deployments with Argo CD and Kubernetes Ingress, with Prometheus and Grafana monitoring.</li>
+      </ul>
+      <p><strong>Tech stack</strong><br/>AWS EKS · Terraform · GitLab CI/CD · Docker · Kubernetes · Argo CD · SonarQube · Trivy · Prometheus · Grafana</p>
+    </td>
+  </tr>
+</table>📊 GitHub Statistics
 <p align="center">
-  <a href="https://github.com/Pavi99sandamini151">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavi99sandamini151&show_icons=true&theme=github_dark&hide_border=true" alt="Pavithra's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Pavi99sandamini151">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavi99sandamini151&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavi99sandamini151&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub profile statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavi99sandamini151&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used programming languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pavi99sandamini151&theme=algolia&hide_border=true" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Pavi99sandamini151&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p><p align="center">
+  <sub>Statistics are generated from public GitHub activity and may take time to refresh.</sub>
 </p><p align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </p>
