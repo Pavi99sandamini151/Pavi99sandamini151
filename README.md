@@ -1,87 +1,133 @@
 ![Header](./github-header-image.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi99sandamini151&label=Profile%20views&color=0e75b6&style=flat" alt="pavi99sandamini151" /> </p>
-<!-- <h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1> -->
-<!-- <h3 align="center">Fullstack Developer</h3> -->
-<!--<div>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **pavithrasandamini283@gmail.com**
-</div>-->
-<div align="center">
-
-### Connect Me Through
-
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pavithrasandamini283@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavithrasandamini/)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavithrasandamini283)
-[![Instagram](https://img.shields.io/badge/instagram-%230A0A0A.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavi_99)
-[![Kaggle](https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/pavithrasandamini)
-[![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pavithrasandami1)
-</div>
-
-<h3 align="center">Languages and Tools</h3>
-<div align="center">
-<p align="center"> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <br/>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
- <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
- <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<p align="center">
+  <img src="./github-header-image.png" alt="Pavithra Sandamini - GitHub Profile Banner" width="100%" />
+</p><p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pavi99sandamini151&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p><h1 align="center">Hi 👋, I'm Pavithra Sandamini</h1>
+<h3 align="center">Software Engineer | Full Stack Development | Cloud & DevSecOps | AI Engineering</h3><p align="center">
+  I enjoy building scalable applications, cloud-native platforms, and practical AI-powered solutions.
+  I work across frontend and backend development, cloud infrastructure, automation, and DevSecOps.
+</p><p align="center">
+  🌐 <a href="https://pavithrasandamini.netlify.app/">Portfolio</a> ·
+  💼 <a href="https://www.linkedin.com/in/pavithrasandamini/">LinkedIn</a> ·
+  ✍️ <a href="https://medium.com/@pavithrasandamini">Medium</a>
+</p>👩‍💻 About Me
+- 💻 Software Engineer with experience building full-stack and cloud-native applications.
+- ☁️ Interested in AWS, serverless architectures, Kubernetes, Infrastructure as Code, and DevSecOps.
+- 🤖 Exploring AI engineering, Retrieval-Augmented Generation (RAG), and LLM-powered applications.
+- 🔭 Building products and solutions across web development, cloud infrastructure, and automation.
+- 📚 B.Sc. in Computer Science – University of Colombo School of Computing.
+- 📫 Reach me at gpavithrasandamini@gmail.com.
+🤝 Connect With Me
+<p align="center">
+  <a href="mailto:gpavithrasandamini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavithrasandamini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@pavithrasandamini">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://pavithrasandamini.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Pavi99sandamini151">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>🛠️ Languages, Frameworks & Tools
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java" alt="TypeScript, JavaScript, Python, Java" />
+</p><h4 align="center">Frontend Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
 </p>
-</div>
-<!--
-<div aligh="center">
-<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=pavi99sandamini151&show_icons=true&locale=en&layout=compact" alt="pavi99sandamini151" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=pavi99sandamini151&show_icons=true&locale=en" alt="pavi99sandamini151" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi99sandamini151&" alt="pavi99sandamini151" /></p>
-</div> -->
-
-<br/>
-<div align="center">
-<a href="https://github.com/Pavi99sandamini151/github-readme-stats">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Pavi99sandamini151&layout=compact&show_icon=true&theme=github_dark" alt="tienhuynh-tn-stats"/>
-</a>
-<a href="https://github.com/Pavi99sandamini151/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavi99sandamini151&show_icons=true&layout=compact&langs_count=8&theme=github_dark" alt="tienhuynh-tn-langs"/>
-</a>
-</div>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Pavi99sandamini151&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pavi99sandamini151&theme=react-dark"/>
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Jotai-000000?style=flat&logo=react&logoColor=white" alt="Jotai" />
+  <img src="https://img.shields.io/badge/React%20i18next-26A69A?style=flat&logo=i18next&logoColor=white" alt="React i18next" />
+</p><h4 align="center">Backend Development & APIs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" />
+  <img src="https://img.shields.io/badge/MoleculerJS-3B82F6?style=flat&logo=javascript&logoColor=white" alt="MoleculerJS" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p><h4 align="center">Cloud & AWS</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonaws&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=flat&logo=amazonaws&logoColor=white" alt="Amazon Cognito" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+  <img src="https://img.shields.io/badge/AWS%20X--Ray-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS X-Ray" />
+  <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=flat&logo=amazonaws&logoColor=white" alt="Secrets Manager" />
+  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Amazon ECR" />
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" alt="Route 53" />
+</p><h4 align="center">Containers, Infrastructure & GitOps</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github,gitlab,linux" alt="Docker, Kubernetes, Terraform, GitHub, GitLab, Linux" />
+  <img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS CDK" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+</p><h4 align="center">Monitoring, Observability & Security</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=black" alt="Loki" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white" alt="Keycloak" />
+</p><h4 align="center">AI Engineering & Data</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/RAG-0A7E8C?style=flat&logo=databricks&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/LLM%20Guardrails-6A5ACD?style=flat&logo=openai&logoColor=white" alt="LLM Guardrails" />
+</p><h4 align="center">Databases & Testing</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB, Firebase" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/Gatling-FFB900?style=flat&logo=gatling&logoColor=black" alt="Gatling" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</p>🚀 Featured Projects
+🛍️ AI Shopping Assistant – RAG Chatbot for E-Commerce
+- Built an AI shopping assistant that answers customer questions using real product and pricing data.
+- Implemented Retrieval-Augmented Generation with ChromaDB and OpenAI API.
+- Added LLM guardrails to keep responses within approved topics.
+- Developed a standalone FastAPI microservice and storefront chat widget.
+- Technologies: Python, FastAPI, OpenAI API, ChromaDB, RAG, Docker, Docker Compose.
+🏟️ Sportizza – Sports Arena Booking Platform
+- Built a serverless marketplace where players can discover arenas, check court availability, and book slots.
+- Implemented atomic booking workflows using DynamoDB transactions and conditional writes to prevent double bookings.
+- Added distributed tracing and operational alerts using AWS X-Ray, CloudWatch, and SNS.
+- Automated infrastructure provisioning and multi-environment deployments.
+- Technologies: AWS Lambda, API Gateway, DynamoDB, Cognito, Amplify, CloudWatch, X-Ray, Secrets Manager, AWS CDK, TypeScript, GitHub Actions, Next.js, Sanity.
+🎟️ Engagi – QR-Based Event Management
+- Supported more than 1,000 attendees at major events, including the National ICT Conference 2024 and the Association of Professional Bankers.
+- Built registration, email confirmation, invitation, and QR-code generation workflows.
+- Developed real-time dashboards for 15+ event operators using Cloud Firestore.
+- Technologies: React, JavaScript, Firebase Cloud Functions, Cloud Firestore, GitHub Actions.
+☸️ Cloud-Native DevSecOps Platform for a Three-Tier MERN Application
+- Designed an end-to-end cloud-native DevSecOps platform using Infrastructure as Code and GitOps.
+- Provisioned AWS networking and private EKS infrastructure with Terraform.
+- Integrated SonarQube quality gates, dependency checks, Trivy image scanning, and Amazon ECR into CI/CD.
+- Implemented GitOps deployments with Argo CD and Kubernetes Ingress; configured Prometheus and Grafana monitoring.
+- Technologies: AWS EKS, Terraform, GitLab CI/CD, Docker, Kubernetes, Argo CD, SonarQube, Trivy, Prometheus, Grafana.
+📊 GitHub Statistics
+<p align="center">
+  <a href="https://github.com/Pavi99sandamini151">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavi99sandamini151&show_icons=true&theme=github_dark&hide_border=true" alt="Pavithra's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Pavi99sandamini151">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavi99sandamini151&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
+  </a>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavi99sandamini151&theme=algolia&hide_border=true" alt="GitHub contribution streak" />
+</p><p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
